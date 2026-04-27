@@ -1,0 +1,7 @@
+datasource:
+  driver-class-name: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://${服务器后端IP}:${后端端口}/userCenter
+  username: ${MYSQL_USER}
+  password: ${MYSQL_PASSWORD}
+
+
